@@ -1,0 +1,151 @@
+[{
+		"id": "1",
+		"category": "sedan",
+		"availability": "True",
+		"brand": "Toyota",
+		"model": "Camry",
+		"model_year": "2013",
+		"mileage": "1111",
+		"fuel_type": "Petrol",
+		"seats": "5",
+		"price_per_day": "100",
+		"description": "Toyota",
+		"img": "images/Camry.jpg"
+	},
+	
+	
+	{
+		"id": "2",
+		"category": "wagon",
+		"availability": "True",
+		"brand": "Holden",
+		"model": "Captiva",
+		"model_year": "2019",
+		"mileage": "2222",
+		"fuel_type": "Diesel",
+		"seats": "4",
+		"price_per_day": "200",
+		"description": "Holden",
+		"img": "images/Captiva.jpg"
+	},
+	
+	{
+		"id": "3",
+		"category": "SUV",
+		"availability": "True",
+		"brand": "Jeep",
+		"model": "Cherokee",
+		"model_year": "2018",
+		"mileage": "3333",
+		"fuel_type": "Petrol",
+		"seats": "6",
+		"price_per_day": "300",
+		"description": "Jeep",
+		"img": "images/Cherokee.jpg"
+	},
+	
+    {
+		"id": "4",
+		"category": "sedan",
+		"availability": "True",
+		"brand": "Honda",
+		"model": "Civic",
+		"model_year": "2018",
+		"mileage": "5554",
+		"fuel_type": "Petrol",
+		"seats": "4",
+		"price_per_day": "400",
+		"description": "Honda",
+		"img": "images/Civic.jpg"
+	},
+	
+    {
+		"id": "5",
+		"category": "SUV",
+		"availability": "True",
+		"brand": "Mercedes-Benz",
+		"model": "GLC",
+		"model_year": "2016",
+		"mileage": "5555",
+		"fuel_type": "Petrol",
+		"seats": "4",
+		"price_per_day": "500",
+		"description": "Benz",
+		"img": "images/GLC.jpg"
+	},
+	
+    {
+		"id": "6",
+		"category": "sedan",
+		"availability": "True",
+		"brand": "Volkswagen",
+		"model": "Golf",
+		"model_year": "2017",
+		"mileage": "6666",
+		"fuel_type": "CNG",
+		"seats": "5",
+		"price_per_day": "600",
+		"description": "Volkswagen",
+		"img": "images/Golf.jpg"
+	},
+	
+    {
+		"id": "7",
+		"category": "wagon",
+		"availability": "True",
+		"brand": "Suzuki",
+		"model": "Jimny",
+		"model_year": "2020",
+		"mileage": "7777",
+		"fuel_type": "Petrol",
+		"seats": "6",
+		"price_per_day": "700",
+		"description": "Suzuki",
+		"img": "images/Jimny.jpg"
+	},
+	
+    {
+		"id": "8",
+		"category": "sedan",
+		"availability": "False",
+		"brand": "Hyundai",
+		"model": "Sonata",
+		"model_year": "2005",
+		"mileage": "8888",
+		"fuel_type": "Petrol",
+		"seats": "4",
+		"price_per_day": "800",
+		"description": "Hundai",
+		"img": "images/Sonata.jpg"
+	},
+	
+    {
+		"id": "9",
+		"category": "SUV",
+		"availability": "False",
+		"brand": "Nissan",
+		"model": "X-trail",
+		"model_year": "2015",
+		"mileage": "9999",
+		"fuel_type": "Petrol",
+		"seats": "7",
+		"price_per_day": "900",
+		"description": "SUV",
+		"img": "images/X-trail.jpg"
+	},
+	
+    {
+		"id": "10",
+		"category": "sedan",
+		"availability": "False",
+		"brand": "BMW",
+		"model": "320i",
+		"model_year": "2010",
+		"mileage": "10000",
+		"fuel_type": "Petrol",
+		"seats": "5",
+		"price_per_day": "1000",
+		"description": "Sedan",
+		"img": "images/320i.jpg"
+	}
+]
